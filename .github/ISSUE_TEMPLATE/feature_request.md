@@ -4,6 +4,8 @@ about: Özellik isteği için kullanın
 title: 'feat: '
 labels: waiting-approval, enhancement, unchecked 
 assignees: ''
+pm:
+peer pm:
 
 ---
 
